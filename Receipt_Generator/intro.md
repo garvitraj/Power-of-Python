@@ -1,2 +1,7 @@
-In this we tried to create a strong password generator using python
-here we used random function and concept of list to make a strong python generator
+# Stong Password generator In Python
+
+## In this I have tried to create a strong password generator using python.
+
+### Concpets Used
+1. **Random function** 
+2. **Concept of list to make a strong Password
